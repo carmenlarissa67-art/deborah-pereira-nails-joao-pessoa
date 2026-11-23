@@ -9,3 +9,5 @@ Toda a personalização fica em `src/data/studioData.js`.
 - `npm run build`
 
 Demo: https://deborah-pereira-nails-joao-pessoa.vercel.app
+
+Pendentes: valores reais (o site usa estimativa), foto da Deborah, depoimentos.
